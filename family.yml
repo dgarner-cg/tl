@@ -1,3 +1,4 @@
+```yaml
 name: Threat Level
 key: threatlevel
 color: blue
@@ -23,3 +24,4 @@ clans:
     tag: PPCG80G0
   - name: Baba Yaga
     tag: YPUYYPP9
+    ```
