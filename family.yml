@@ -1,0 +1,26 @@
+name: Threat Level
+key: threatlevel
+color: blue
+emblem: Twin_Peaks_01
+info:
+  logo: /static/img/branding/cr-api-logo.png
+  description: >
+    Threat Level Clan Family was established by the players, for the players. 
+    Our goal was to establish an organization that was both fun and friendly yet
+    offers our players the chance to advance their gameplay through our coaching system
+    and our eSports partner, Instinct eSports.
+  social:
+    - discord: https://discord.gg/BDyfHu6
+clans:
+  - name: TL Inferno
+    tag: 9CJ9YGPL
+  - name: TL Cyclone
+    tag: 9QVYYYV0
+  - name: TL Titans
+    tag: PGPQQ8UV
+  - name: TL Nitro
+    tag: 9YYLQ99L
+  - name: TL Chill
+    tag: PPCG80G0
+  - name: Baba Yaga
+    tag: YPUYYPP9
